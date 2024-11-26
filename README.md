@@ -30,4 +30,5 @@
 
     ![이미지](images/유스케이스.png)
     ![이미지](images/클래스다이어그램.png)
-      ![이미지](images/회원클래스및테이블.png)
+    ![이미지](images/회원클래스및테이블.png)
+    ![이미지](images/상품표.png)
