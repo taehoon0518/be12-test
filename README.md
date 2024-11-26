@@ -30,5 +30,15 @@
 
     ![이미지](images/유스케이스.png)
     ![이미지](images/클래스다이어그램.png)
+
+    ## 클래스 다이어그램
+
+    주문 클래스
+    ![이미지](images/serverclient.png)
+    
+    회원 클래스
     ![이미지](images/회원클래스및테이블.png)
+    
+    상품 클래스 
     ![이미지](images/상품표.png)
+
