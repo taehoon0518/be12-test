@@ -30,3 +30,8 @@
 
     ![이미지](images/유스케이스.png)
     ![이미지](images/클래스다이어그램.png)
+
+    ## 클래스 다이어그램
+
+    주문 클래스
+    ![이미지](images/serverclient.png)
